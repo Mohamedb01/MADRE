@@ -15,6 +15,9 @@
 !/TP5_PCA_Anomaly/**
 !/TP6-NeuralNetworks/**
 
+# Exclude large dataset files from TP4
+TP4-Clustering/*.txt
+
 # Ignore Python cache and virtual environments
 **/__pycache__/
 **/*.py[cod]
